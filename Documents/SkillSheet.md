@@ -17,13 +17,14 @@
 
 * WindowsXP
 * Java
+* Eclipse
 * Oracle9i
 
 
 #### 規模/役割
 
 * 規模
- - ?人
+ - 4人
 * 役割
  - メンバー
 
@@ -46,12 +47,13 @@
 * WindowsXP
 * Red Hat Linux
 * Java
+* Eclipse
 * PostgreSQL
 
 #### 役割/規模
 
 * 規模
- - ?人
+ - 20人
 * 役割
  - メンバー
 
@@ -67,8 +69,10 @@
 * SSAS Tabular Models開発
 * SSIS開発補助
 * VBAツール修正•機能追加
+* SQLの修正及び作成
+* 運用手順書作成
 * プログラム製造〜結合テスト
- 
+
 #### 技術
 
 * WindowsXP
@@ -101,14 +105,14 @@
 
 * Windows XP
 * Java
-* Oracle10i
+* Eclipse
 * JUnit
-
+* Oracle10i
 
 #### 役割/規模
 
 * 規模
- - ?人
+ - 3人
 * 役割
  - メンバー
 
@@ -120,8 +124,10 @@
 
 #### 内容
 
-* 金融システムのPL/1からOpen BAGLESへのマイグレーション開発
-* Open BAGLESによる他システム連携機能開発
+Systemwalker Operation Manager
+
+* 金融システムのPL/1からBAGLES定義書へのマイグレーション開発
+* Interdevelop Designer Javaによる他システム連携機能開発
 * 帳票出力機能結合テスト支援
 * PL/1解析
 * 仕様書修正
@@ -135,18 +141,18 @@
 * Pl/1
 * VBA
 * Java
+* Eclipse
+* Interdevelop Designer Java
 * Oracle11g
-* Open BAGLES
 
 #### 役割/規模
 
 * 規模
- - ?人
+ - 10人
 * 役割
  - メンバー
 
 ***
-
 
 ### 6. 金融会社営業端末マイグレーション開発
 
@@ -162,12 +168,13 @@
 
 * Windows 7
 * Java
+* Eclipse
 * C
 
 #### 役割/規模
 
 * 規模
- - ?人
+ - 10人
 * 役割
  - メンバー
 
@@ -611,7 +618,7 @@
 
 ### 23. 受託開発対応
 
-2017/6 ~ 2017/?? (?ヶ月)
+2017/6 ~ 2017/6 (1ヶ月)
 
 #### 内容
 
@@ -631,6 +638,10 @@
  - 1人
 * 役割
  - メンバー
+
+***
+
+TODO: 6月〜現在までのプロジェクトを更新		
 
 ***
 
