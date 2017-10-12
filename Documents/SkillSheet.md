@@ -3,7 +3,7 @@
 | | |
 |:-----|:------|
 |主要分野|ネイティブアプリ・サーバサイド|
-|主要技術|Objective-C,Swift,Java,PostgreSQL|
+|主要技術|Objective-C,Swift,Java,PostgreSQL,AWS|
 |主要業務|SaaS,展示会,営業支援|
 
 ## 実務経歴
