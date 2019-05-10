@@ -19,15 +19,18 @@
 #### 技術
 
 * Java
-* Spring
 * Spring Boot
+* Thymeleaf
+* HTML
+* CSS
+* JavaScript
 * Docker
 * MySQL
 
 #### 役割/規模
 
 * 規模
-    - 6人
+    - 7人
 * 役割
     - メンバー
 
