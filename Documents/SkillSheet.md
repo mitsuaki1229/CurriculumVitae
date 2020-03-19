@@ -10,11 +10,12 @@
 
 ### 28. 受託開発・飲食店注文配達システム
 
-2017/7 ~ 
+2018/7 ~ 
 
 #### 内容
 
 * 既存機能改善
+* 機能追加
 
 #### 技術
 
@@ -24,8 +25,11 @@
 * HTML
 * CSS
 * JavaScript
+* TypeScript
 * Docker
 * MySQL
+* Selenide
+* CircleCI
 
 #### 役割/規模
 
