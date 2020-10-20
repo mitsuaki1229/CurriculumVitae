@@ -336,6 +336,7 @@ iPadをベースとしたアンケートシステムを特定の顧客向けに�
 
 * OS X El Capitan
 * Objective-C
+* XCTest
 * SQLite
 
 #### 役割/規模
