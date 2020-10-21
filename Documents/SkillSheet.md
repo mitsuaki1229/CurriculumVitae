@@ -51,6 +51,7 @@
 ##### オンプレミスなバッチのクラウド化
 
 * Kotlin
+* Python
 * Spring Boot
 * Spring Batch
 * Docker
@@ -58,6 +59,7 @@
 * AWS Batch
 * Amazon Pinpoint
 * Amazon Aurora MySQL
+* AWS Lambda
 
 ##### モノリシックなシステムのマイクロサービス化
 
@@ -67,8 +69,6 @@
 
 * オンプレミスなバッチのクラウド化をベースに下記技術を利用
 * Datadog
-* Python
-* AWS Lambda
 * Amazon RDS Proxy
 * GitHub Actions
 
