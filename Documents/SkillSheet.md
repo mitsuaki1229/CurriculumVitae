@@ -56,9 +56,9 @@
 * Spring Batch
 * Docker
 * MySQL
-* AWS Batch
-* Amazon Pinpoint
 * Amazon Aurora MySQL
+* Amazon Pinpoint
+* AWS Batch
 * AWS Lambda
 
 ##### モノリシックなシステムのマイクロサービス化
@@ -128,6 +128,9 @@
 * shell script
 * Docker
 * MySQL
+* Apache Tomcat
+* Apache HTTP Server
+* Postfix
 * Selenide
 * CircleCI
 * Zabbix
@@ -138,7 +141,7 @@
 * 規模
     - 7人
 * 役割
-    - メンバー
+    - メンバー(対応内容によってはサブリーダー)
 
 ***
 
@@ -389,7 +392,7 @@ iPadで多言語で注文及びメニュー表示するアプリを
 * 規模
     - 2人
 * 役割
-    - サブリーダー
+    - リーダー
 
 ***
 
@@ -602,12 +605,13 @@ iPadをベースとしたアンケートシステムを特定の顧客向けに�
 * Java
 * SQLite
 * PostgreSQL
-* AWS
+* Amazon EC2
+* Amazon RDS
 
 #### 役割/規模
 
 * 規模
- - 2人
+ - 3人
 * 役割
  - サブリーダー
 
@@ -644,7 +648,8 @@ iPadをベースとしたアンケートシステムを特定の顧客向けに�
 * Java
 * SQLite
 * PostgreSQL
-* AWS
+* Amazon EC2
+* Amazon RDS
 
 #### 役割/規模
 
@@ -683,11 +688,15 @@ iPadをベースとしたアンケートシステムを
 #### 技術
 
 * OS X Yosemite
-* Amazon Linux
-* Java
 * Windows 10
+* Java
 * PostgreSQL
-* AWS
+* Amazon Linux
+* Amazon EC2
+* Amazon RDS
+* Amazon SES
+* Amazon Elastic Load Balancing
+* Apache JMeter
 
 #### 役割/規模
 
