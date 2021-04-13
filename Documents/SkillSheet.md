@@ -30,6 +30,7 @@
 * Go
 * Docker
 * Amazon DynamoDB
+* Redis
 * gRPC
 
 #### 役割/規模
