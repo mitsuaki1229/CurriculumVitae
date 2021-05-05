@@ -152,6 +152,8 @@
 * Spring Boot
 * Spring Batch
 * Thymeleaf
+* Apache Velocity
+* Freemarker
 * HTML
 * CSS
 * JavaScript
