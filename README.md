@@ -10,3 +10,7 @@ Mitsuaki Ihara 経歴
 ## 職務経歴
 
 * [スキルシート](./Documents/SkillSheet.md)
+
+## その他
+
+* [性格診断](./Documents/Assessment/Personality.md)
