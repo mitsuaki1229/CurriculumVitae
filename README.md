@@ -14,3 +14,4 @@ Mitsuaki Ihara 経歴
 ## その他
 
 * [性格診断](./Documents/Assessment/Personality.md)
+* [クリフトンストレングス](./Documents/Assessment/clifton_strengths.md)
