@@ -38,6 +38,7 @@
 * Amazon Aurora MySQL
 * Redis
 * gRPC
+* AWS Lambda
 
 #### 役割/規模
 
