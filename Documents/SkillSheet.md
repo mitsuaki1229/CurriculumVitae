@@ -34,6 +34,8 @@
 * Go
 * GCP
 * Docker
+* Claude Code
+* Cursor
 
 ***
 
